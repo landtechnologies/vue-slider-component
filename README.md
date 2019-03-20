@@ -1,3 +1,5 @@
+# DEPRECATED: we are now using upstream version again
+
 # vue-slider-component
 
 [![build](https://img.shields.io/wercker/ci/wercker/docs.svg)](https://github.com/NightCatSama/vue-slider-component)
